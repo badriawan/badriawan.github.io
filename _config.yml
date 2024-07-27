@@ -14,17 +14,17 @@ name                     : &name "Yusuf Kurnia Badriawan"
 description              : &description "personal description"
 url                      : https://badriawan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "badriawan/badriawan.github.io"
+repository               : "github.com/badriawan"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profpic.jpg"
   name             : "Yusuf Badriawan"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics Enthusiasth"
+  bio              : "Robotics Enthusiasch"
   location         : "Indonesia"
   employer         : "Gadjah Mada University"
   uri              : # URL
@@ -39,7 +39,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
-  # Repositories and software development
+  #Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
@@ -47,7 +47,7 @@ author:
   kaggle           : "badriawan"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
+  #Social media
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
