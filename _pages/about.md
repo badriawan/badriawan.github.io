@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+First, I want to say thanks to God for everything.
+
+I'm really excited and passionate about entrepreneurship such as building techno business. I have professional skills and experience in digital marketing, electrical engineering, robotics programming, image processing, value investing, business management and leadership.
+
+I'm enjoying the process despite the success and failure to take turns. I am the type of person who totality in doing something. If I have a target or goals, I will like to work on a project or task responsibly, focus, and don't give up easily. When I get a role or mandate, it is an honour for me so I will carry out the role sincerely and do it as well as possible. In the end, I think attitude comes first in all aspects.
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
