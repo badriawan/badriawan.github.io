@@ -3,8 +3,7 @@ title: "Skills"
 collection: talks
 type: ""
 permalink: /talks/skills
-venue: ""
-location: ""
+
 ---
 
 - Navigation

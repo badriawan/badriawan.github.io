@@ -3,8 +3,7 @@ title: "Software Competencies"
 collection: talks
 type: ""
 permalink: /talks/competencies
-venue: ""
-location: ""
+
 ---
 
 - Robot Operating Sistem (ROS)

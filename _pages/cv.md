@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in AI for Robotics (expected)
+* M.S. in Electrical Engineering, Universitas Gadjah Mada, 2024 \\
+UGM funded research titled 'Mobile Robot Navigation based on Deep Reinforcement Learning using Improved Reward Shaping. \\
+Joint supervisors = \\ 
+[ Dr.Adha Imam Cahyadi, Department of Electrical Engineering and Information Technology UGM] \\ 
+[Dr.Noor Akhmad
+Setiawan, Department of Electrical Engineering and Information Technology,UGM] \\ 
+[Dr Ahmad Ataka,Department of Electrical Engineering and InformationTechnology UGM].
+* B.S. in Electrical Engineering, Universitas Gadjah Mada, 2020 \\
+Focus on electronic signaling systems, control systems and robotics.
+The final year project on 'differential robot navigation using SLAM and path planning with A*' is based on research for a robot carrier
+prototype project at an airport.
 
 Work experience
 ======
@@ -32,7 +41,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Awards
 ======
 * Skill 1
 * Skill 2
