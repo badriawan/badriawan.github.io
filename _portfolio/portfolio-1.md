@@ -1,6 +1,6 @@
 ---
 title: "AI-Based AgriBots: Towards Food Sovereignty 4.0 with Artificial Intelligence-Based Robotics Systems"
-excerpt: Research Assistant <br/><img src='/images/500x300.png'>"
+excerpt: Research Assistant
 collection: portfolio
 ---
     The urgency of using robotics in agriculture lies in the need to increase efficiency, productivity and user friendliness in agricultural
