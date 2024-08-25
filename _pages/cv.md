@@ -21,7 +21,7 @@ prototype project at an airport.
 
 Work Experience
 ======
-* Business Development at CV.Klinik Pratama SWA - Part time (2021-2023) / Full time (2024)
+* Business Development at CV.Klinik Pratama SWA - Part time (2021-2023) / Full time (2024) [Company Instagram](https://www.instagram.com/klinikpratamaswa/)
   * Junior Marketing Team Manager - Medical Services (2021-2024)
     * ROLE: TEAM AND PROJECT MANAGEMENT
       * Provide medical clinic business development ideas and solutions in marketing and management such as SEO marketing, online medical
@@ -34,7 +34,7 @@ organization was formed.
 reports, determining the company's monthly and annual targets, as well as the potential for short, medium, and long-term business
 development. My team and I have succeeded in providing a solution to facilitate the digitization of communication so that the company
 is able to increase the efficiency of communication with patients.
-* Co-Founder at PT.Robotik Academy Indonesia - Full time (2021-2023)
+* Co-Founder at PT.Robotik Academy Indonesia - Full time (2021-2023) [Company Instagram](https://www.instagram.com/robotikacademy/)
   * Operational Manager - Consultant and Educational Robotics Company (2022-2023)
     * ROLE: TEAM AND PROJECT MANAGEMENT
       * Leading and managing a super team of 10 people within the company, achieved the monthly target of more than 90%, and increased the
