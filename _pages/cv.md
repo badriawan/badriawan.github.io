@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For some detailed information, kindly check my [Linkedin](https://linkedin.com/in/yusufbadriawan) account.
+
 Education
 ======
 * Ph.D in AI for Robotics (expected)
