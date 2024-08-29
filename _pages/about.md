@@ -28,7 +28,7 @@ service companies(i.e school projects and university classes).
 
 Contact Me
 ======
-Email     : yusuf.kurnia.b@mail.ugm.ac.id
-[Github](www.github.com/badriawan)                      : github.com/badriawan
-[Linkedin](www.linkedin.com/in/yusufbadriawan)          : www.linkedin.com/in/yusufbadriawan
-[Youtube](https://www.youtube.com/@yusuf_badriawan)     : www.youtube.com/@yusuf_badriawan
+Email     : yusuf.kurnia.b@mail.ugm.ac.id ||
+[Github](www.github.com/badriawan)                      : github.com/badriawan ||
+[Linkedin](www.linkedin.com/in/yusufbadriawan)          : www.linkedin.com/in/yusufbadriawan ||
+[Youtube](https://www.youtube.com/@yusuf_badriawan)     : www.youtube.com/@yusuf_badriawan ||
