@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience 1"
+title: "Teaching Experience 2"
 collection: teaching
 type: "Children Course"
 permalink: /teaching/2014-spring-teaching-1
