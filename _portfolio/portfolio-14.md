@@ -1,5 +1,5 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
-excerpt: Research Project <br/><img src='/images/manipulator.gif'>"
+title: "Custom Manipulator Robot and Forward Kinematics using TF Library"
+excerpt: Robotisim Project <br/><img src='/images/manipulator.gif'>"
 collection: portfolio
 ---

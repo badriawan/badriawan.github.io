@@ -1,5 +1,5 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
+title: "SLAM Based Mobile Robot Navigation for Airport Robotics Model Prototyping "
 excerpt: Research Project <br/><img src='/images/turtlebot.gif'>"
 collection: portfolio
 ---

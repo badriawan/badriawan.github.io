@@ -1,5 +1,5 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
-excerpt: Research Project <br/><img src='/images/nav2.gif'>"
+title: "SLAM and Obstacle Avoidance Implementation on The Construct Platform"
+excerpt: Student Project <br/><img src='/images/nav2.gif'>"
 collection: portfolio
 ---

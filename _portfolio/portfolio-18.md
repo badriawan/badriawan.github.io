@@ -1,5 +1,5 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
-excerpt: Research Project <br/><img src='/images/turtle2.gif'>"
+title: "ROS-2 Based Multirobot Implementation using Turtlesim"
+excerpt: Robotisim Project <br/><img src='/images/turtle2.gif'>"
 collection: portfolio
 ---

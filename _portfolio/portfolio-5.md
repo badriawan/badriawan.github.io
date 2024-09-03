@@ -1,20 +1,7 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
-excerpt: Research Assistant
+title: "Upper Limb Rehabilitation Robot Control based on Large Language Model"
+excerpt: Research Assistant <br/><img src='/images/LLM.png'>"
 collection: portfolio
 ---
 
-Early and accurate detection of endemic bacteria, such as Mycobacterium tuberculosis and Plasmodium, is an important key in controlling
-and treating endemic diseases. With advances in technology, the use of Artificial Intelligence (AI) and Internet of Things (IoT) has emerged as
-a very effective tool in automatically detecting endemic bacteria. This research develops an automated endemic detection system that
-integrates AI and IoT to identify endemic bacteria from patient samples with high accuracy and time efficiency. The system consists of two
-main components: an innovative IoT sample collection device and an advanced AI model. IoT devices are designed to non-invasively and
-autonomously collect samples (e.g. sputum) directly from the patient, which are then sent wirelessly to the laboratory for further analysis.
-The AI model, drilled with thousands of microscopic images of endemic bacteria, uses Deep Learning and Convolutional Neural Networks
-(CNN) techniques to identify the presence of endemic bacteria with high accuracy, sensitivity and specificity. This research aims to have an
-automatic endemic bacteria detection system capable of identifying endemic bacteria with an accuracy of more than 80%, significantly
-reducing the time required for diagnosis compared to conventional methods. This system not only increases diagnostic efficiency but also
-allows the detection of endemic bacteria to be mapped via IoT connectivity. It is hoped that the implementation of this system can speed up
-the process of detecting endemic bacteria, enable faster and more effective medical intervention, and reduce the spread of disease. Further
-research will focus on improving the accuracy of AI models, miniaturizing IoT automated microscope devices, and developing more efficient
-algorithms for large-scale data processing.
+Stroke is a life-threatening condition and its survivors often face significant disabilities that reduce their quality of life, making effective rehabilitation systems essential. Automation technology, such as robotics, offers a promising solution to improve rehabilitation quality. However, the implementation of this technology can be challenging for users due to interface complexity. To ensure easier adoption, the user interface of these systems must be both comfortable and easy to use. Large Language Models (LLMs) currently offer a promising solution to this challenge. This study explores the use of an LLM as a control interface for an upper limb rehabilitation robot. By combining high-level task execution based on LLM and low-level forward kinematics, we exploit the intuitiveness of LLM and the accuracy of model-based control to perform various rehabilitation tasks more easily. The findings demonstrate that the LLM-based control interface significantly outperforms traditional keypad-based controls in rehabilitation robot usability tests, achieving a high success rate in the trials.

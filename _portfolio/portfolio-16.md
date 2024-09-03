@@ -1,5 +1,5 @@
 ---
-title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
-excerpt: Research Project <br/><img src='/images/mobile_manipulator.gif'>"
+title: "Custom Mobile Manipulator URDF & ROS 2 Control "
+excerpt: Robotisim Project <br/><img src='/images/mobile_manipulator.gif'>"
 collection: portfolio
 ---
