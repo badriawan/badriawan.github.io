@@ -11,16 +11,19 @@ collection: portfolio
 </p>
 
 
-<details open>
-<summary> <b>Brief Review<b></summary>
+
+Brief Review
+
+======
 
 - First part of the project is creating custom LQR controllers for controlling the mobile robot.
 
 - Last part is implementation of LQR robots using different penalties value in Q and R matriks and analyze the robot behaviour.
 
 
-<details open>
-<summary> <b>Project Tree<b></summary>
+Project Tree
+
+======
 
 - include
     - lqr_lib.hpp
@@ -33,9 +36,11 @@ collection: portfolio
 
 
 
-- **Solutions**:
+Solutions
 
-How I Built the System:
+======
+
+- How I Built the System:
 
     1. Set Up the Workspace and ROS2 Packages: I started by creating the workspace and ROS2 packages, including the necessary folders such as launch, include, and src.
 
@@ -51,7 +56,7 @@ How I Built the System:
 
     7. Compile and Run the Nodes: Finally, I compiled the system and ran the nodes to test the implementation.
 
-How I Performed the LQR Control Analysis:
+- How I Performed the LQR Control Analysis:
 
     1. Adjust Q and R Matrix Penalties: I modified the values of the Q and R matrices to analyze how different penalty values affect the robot's behavior.
 
@@ -59,8 +64,10 @@ How I Performed the LQR Control Analysis:
 
 
 
-<details open>
-<summary> <b>Project Summary<b></summary>
+Project Summary
+
+======
+
 
 In this project, we implemented Linear Quadratic Regulator (LQR) algorithms to control a mobile robot navigating through four different waypoints. LQR is an optimal control strategy that determines the control inputs necessary to drive a system's state to a desired target while minimizing a cost function. This cost function typically balances the trade-off between minimizing state errors and minimizing control efforts.
 
@@ -72,40 +79,30 @@ Conversely, increasing the value of RR gives more weight to minimizing the contr
 
 
 
-<p align="center"> </p>
-</details>
+Using The Package
 
-<details open>
-<summary> <b>Using The Package <b></summary>
+======
 
 - Follow the next steps to replicate the outcome...
 
-- Create the workspace
-```sh
-    cd ~
-    mkdir -p your_workspace/src
-    cd your_workspace/src
-```
+- Create the workspace:
+    - cd ~
+    - mkdir -p your_workspace/src
+    - cd your_workspace/src
+
 - Fork (or clone) this repo in the `~/your_workspace/src` folder by typing:
-```sh 
-    git clone https://github.com/badriawan/robotics_software_engineer.git
-```
+    - git clone https://github.com/badriawan/robotics_software_engineer.git
+
 - Next compile and source the repository
-```sh
-    cd ~/your_workspace
-    colcon build --packages-select module_5_assignment
-    source install/setup.bash
-```
+    - cd ~/your_workspace
+    - colcon build --packages-select module_5_assignment
+    - source install/setup.bash
+
 
 - Run the demos for Assignment 2, Part 1, 2,3,4
-```sh
-    ros2 launch module_5_assignment task_1
-    ros2 launch module_5_assignment task_2
-    open task3.txt
-    open task4.txt
- 
-```
-
-</details>
+    - ros2 launch module_5_assignment task_1
+    - ros2 launch module_5_assignment task_2
+    - open task3.txt
+    - open task4.txt
 
 
