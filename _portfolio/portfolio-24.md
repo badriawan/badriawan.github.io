@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-## Build a LQR algorithm for enhance robot motion performance
+## Build a Sensor Fusion based on GPS and IMU data using EKF
 <p align="center">
 <img src = "/images/navsat.gif?raw=true" center=true width="55%"/>
 </p>
