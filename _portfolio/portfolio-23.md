@@ -12,7 +12,7 @@ collection: portfolio
 
 
 ## Brief Review
-======
+
 
 - First part of the project is creating custom LQR controllers for controlling the mobile robot.
 
@@ -20,7 +20,7 @@ collection: portfolio
 
 
 ## Project Tree
-======
+
 
 - include
     - lqr_lib.hpp
@@ -34,7 +34,7 @@ collection: portfolio
 
 
 ## Solutions
-======
+
 
 - How I Built the System:
 
@@ -61,7 +61,7 @@ collection: portfolio
 
 
 ## Project Summary
-======
+
 
 
 In this project, we implemented Linear Quadratic Regulator (LQR) algorithms to control a mobile robot navigating through four different waypoints. LQR is an optimal control strategy that determines the control inputs necessary to drive a system's state to a desired target while minimizing a cost function. This cost function typically balances the trade-off between minimizing state errors and minimizing control efforts.
@@ -75,7 +75,7 @@ Conversely, increasing the value of RR gives more weight to minimizing the contr
 
 
 ## Using The Package
-======
+
 
 - Follow the next steps to replicate the outcome...
 
@@ -93,7 +93,7 @@ Conversely, increasing the value of RR gives more weight to minimizing the contr
     - `source install/setup.bash`
 
 
-- Run the demos for Assignment 2, Part 1, 2,3,4
+- Run the demos
     - `ros2 launch module_5_assignment task_1`
     - `ros2 launch module_5_assignment task_2`
     - `open task3.txt`
