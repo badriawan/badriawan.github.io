@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Automatic Microscope Integration of Sample Preparation Images with The IOT for Identification and Limiting The Spread of Endemic Bacteria Based on AI"
 excerpt: Research Assistant
 collection: portfolio
@@ -17,4 +17,4 @@ reducing the time required for diagnosis compared to conventional methods. This 
 allows the detection of endemic bacteria to be mapped via IoT connectivity. It is hoped that the implementation of this system can speed up
 the process of detecting endemic bacteria, enable faster and more effective medical intervention, and reduce the spread of disease. Further
 research will focus on improving the accuracy of AI models, miniaturizing IoT automated microscope devices, and developing more efficient
-algorithms for large-scale data processing.
+algorithms for large-scale data processing. -->

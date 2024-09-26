@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "AI-Based AgriBots: Towards Food Sovereignty 4.0 with Artificial Intelligence-Based Robotics Systems"
 excerpt: Research Assistant
 collection: portfolio
@@ -14,4 +14,4 @@ Through LLM, robots can recognize context, understand human language, and make i
 automatic excavator robots or automatic arm robots which are used to pick up certain objects such as harvested fruit and placed in a truck
 for transport, growing robots (growing robots) which are used to get into narrow and hard-to-reach areas to facilitate the process. planting
 seeds, to wheeled robots for moving crops. The intended output of this research is four articles published in international conference
-proceedings indexed by SCOPUS.
+proceedings indexed by SCOPUS. -->
