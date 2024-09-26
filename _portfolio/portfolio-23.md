@@ -11,9 +11,7 @@ collection: portfolio
 </p>
 
 
-
-Brief Review
-
+## Brief Review
 ======
 
 - First part of the project is creating custom LQR controllers for controlling the mobile robot.
@@ -21,8 +19,7 @@ Brief Review
 - Last part is implementation of LQR robots using different penalties value in Q and R matriks and analyze the robot behaviour.
 
 
-Project Tree
-
+## Project Tree
 ======
 
 - include
@@ -36,8 +33,7 @@ Project Tree
 
 
 
-Solutions
-
+## Solutions
 ======
 
 - How I Built the System:
@@ -64,8 +60,7 @@ Solutions
 
 
 
-Project Summary
-
+## Project Summary
 ======
 
 
@@ -79,30 +74,29 @@ Conversely, increasing the value of RR gives more weight to minimizing the contr
 
 
 
-Using The Package
-
+## Using The Package
 ======
 
 - Follow the next steps to replicate the outcome...
 
 - Create the workspace:
-    - cd ~
-    - mkdir -p your_workspace/src
-    - cd your_workspace/src
+    - `cd ~`
+    - `mkdir -p your_workspace/src`
+    - `cd your_workspace/src`
 
 - Fork (or clone) this repo in the `~/your_workspace/src` folder by typing:
-    - git clone https://github.com/badriawan/robotics_software_engineer.git
+    - `git clone https://github.com/badriawan/robotics_software_engineer.git`
 
 - Next compile and source the repository
-    - cd ~/your_workspace
-    - colcon build --packages-select module_5_assignment
-    - source install/setup.bash
+    - `cd ~/your_workspace`
+    - `colcon build --packages-select module_5_assignment`
+    - `source install/setup.bash`
 
 
 - Run the demos for Assignment 2, Part 1, 2,3,4
-    - ros2 launch module_5_assignment task_1
-    - ros2 launch module_5_assignment task_2
-    - open task3.txt
-    - open task4.txt
+    - `ros2 launch module_5_assignment task_1`
+    - `ros2 launch module_5_assignment task_2`
+    - `open task3.txt`
+    - `open task4.txt`
 
 
