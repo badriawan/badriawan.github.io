@@ -6,9 +6,9 @@ collection: portfolio
 
 
 ## Build a LQR algorithm for enhance robot motion performance
-<!-- <p align="center">
-<img src = "doc/manipulator.gif?raw=true" center=true width="55%"/>
-</p> -->
+<p align="center">
+<img src = "/images/LQR.png?raw=true" center=true width="55%"/>
+</p>
 
 
 <details open>
