@@ -6,6 +6,10 @@ collection: portfolio
 
 ## Multiple Model Approach for a Soft Robotic Arm
 
+<p align="center">
+<img src="/images/soft.jpg?raw=true" center=true width="55%"/>
+</p>
+
 ### Brief Review
 
 Soft robotics represents the next generation of robotic systems, complementing rigid robots by incorporating concepts inspired by natural organisms. These soft robots exhibit extraordinary flexibility, agility, and endurance, making them safe for interaction with humans. However, modeling and controlling soft robots remain significant challenges. On one hand, data-driven models require vast amounts of training data, while accurate physics-based models suffer from computational complexity.
