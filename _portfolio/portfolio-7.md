@@ -126,7 +126,7 @@ Follow these steps to replicate the outcome:
 
         ```bash
         sudo apt update
-        sudo apt install ros-foxy-navigation2 ros-foxy-nav2-bringup ros-foxy-slam-toolbox
+        sudo apt install ros-foxy-navigation2 ros-humble-nav2-bringup ros-humble-slam-toolbox
         ```
 
     - Install any additional dependencies specified in the `package.xml` file.
