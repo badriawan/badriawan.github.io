@@ -9,6 +9,10 @@ collection: portfolio
 
 ---
 
+<p align="center">
+<img src="/images/cnc.gif?raw=true" center=true width="55%"/>
+</p>
+
 ### 1. Project Overview
 This project aims to design, build, and automate a custom holder for a light sensor using CNC (Computer Numerical Control) technology. The holder was created with CAD software, programmed with Arduino and GRBL, and built with a CNC kit including a motor and rail system to facilitate precise, automated adjustments.
 
